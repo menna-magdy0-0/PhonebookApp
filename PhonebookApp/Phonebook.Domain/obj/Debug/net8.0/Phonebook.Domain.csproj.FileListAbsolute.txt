@@ -1,0 +1,15 @@
+D:\PhoneBookApp\PhonebookApp\Phonebook.Domain\bin\Debug\net8.0\Phonebook.Domain.deps.json
+D:\PhoneBookApp\PhonebookApp\Phonebook.Domain\bin\Debug\net8.0\Phonebook.Domain.runtimeconfig.json
+D:\PhoneBookApp\PhonebookApp\Phonebook.Domain\bin\Debug\net8.0\Phonebook.Domain.dll
+D:\PhoneBookApp\PhonebookApp\Phonebook.Domain\bin\Debug\net8.0\Phonebook.Domain.pdb
+D:\PhoneBookApp\PhonebookApp\Phonebook.Domain\obj\Debug\net8.0\Phonebook.Domain.csproj.AssemblyReference.cache
+D:\PhoneBookApp\PhonebookApp\Phonebook.Domain\obj\Debug\net8.0\Phonebook.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\PhoneBookApp\PhonebookApp\Phonebook.Domain\obj\Debug\net8.0\Phonebook.Domain.AssemblyInfoInputs.cache
+D:\PhoneBookApp\PhonebookApp\Phonebook.Domain\obj\Debug\net8.0\Phonebook.Domain.AssemblyInfo.cs
+D:\PhoneBookApp\PhonebookApp\Phonebook.Domain\obj\Debug\net8.0\Phonebook.Domain.csproj.CoreCompileInputs.cache
+D:\PhoneBookApp\PhonebookApp\Phonebook.Domain\obj\Debug\net8.0\Phonebook.Domain.sourcelink.json
+D:\PhoneBookApp\PhonebookApp\Phonebook.Domain\obj\Debug\net8.0\Phonebook.Domain.dll
+D:\PhoneBookApp\PhonebookApp\Phonebook.Domain\obj\Debug\net8.0\refint\Phonebook.Domain.dll
+D:\PhoneBookApp\PhonebookApp\Phonebook.Domain\obj\Debug\net8.0\Phonebook.Domain.pdb
+D:\PhoneBookApp\PhonebookApp\Phonebook.Domain\obj\Debug\net8.0\Phonebook.Domain.genruntimeconfig.cache
+D:\PhoneBookApp\PhonebookApp\Phonebook.Domain\obj\Debug\net8.0\ref\Phonebook.Domain.dll
